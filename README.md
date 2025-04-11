@@ -51,7 +51,7 @@ Columns:
 4. Place air_quality.csv in the working directory.
 5.Run the analysis script:
 
-    ```bash python air_quality_analysis.py```
+    ```python python air_quality_analysis.py```
 
    
 🎓 Academic Relevance
